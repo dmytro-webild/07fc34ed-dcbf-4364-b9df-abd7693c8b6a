@@ -89,7 +89,7 @@ export default function LandingPage() {
           href: "https://wa.me/923000000000",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/modern-building-with-many-windows_23-2148252722.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/modern-building-with-many-windows_23-2148252722.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -163,7 +163,7 @@ export default function LandingPage() {
           title: "Focused",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/portrait-charming-brunette-flannel-shirt-jeans-wit_613910-16084.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/portrait-charming-brunette-flannel-shirt-jeans-wit_613910-16084.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       metricsAnimation="slide-up"
     />
@@ -187,7 +187,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/person-using-smartphone-his-automated-home_23-2149036911.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-building-with-many-windows_23-2148252722.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/modern-building-with-many-windows_23-2148252722.jpg?_wi=2",
           imageAlt: "apartment security gate",
         },
         {
@@ -202,7 +202,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-furniture-shop-store-interior_1203-8593.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-charming-brunette-flannel-shirt-jeans-wit_613910-16084.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-charming-brunette-flannel-shirt-jeans-wit_613910-16084.jpg?_wi=2",
           imageAlt: "apartment security gate",
         },
         {
@@ -217,7 +217,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/hallway-garage_23-2149397542.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/cozy-bedroom-with-pendant-lamp-orchid-home-comfort_169016-70987.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cozy-bedroom-with-pendant-lamp-orchid-home-comfort_169016-70987.jpg?_wi=1",
           imageAlt: "apartment security gate",
         },
       ]}
@@ -238,7 +238,7 @@ export default function LandingPage() {
           name: "3 Bedroom Standard",
           price: "Available",
           variant: "Unit A",
-          imageSrc: "http://img.b2bpic.net/free-photo/cozy-bedroom-with-pendant-lamp-orchid-home-comfort_169016-70987.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cozy-bedroom-with-pendant-lamp-orchid-home-comfort_169016-70987.jpg?_wi=2",
         },
         {
           id: "2",
